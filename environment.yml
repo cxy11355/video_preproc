@@ -1,10 +1,8 @@
+name: video_pre_processing
 channels:
-  - nodefaults
   - conda-forge
-  
 dependencies:
   - python=3.11
-  - pandas
-  - numpy
-  - tqdm
+  - opencv
+  - pyyaml
   - ffmpeg
