@@ -1,4 +1,4 @@
-name: video_pre_processing
+name: video_preproc
 channels:
   - conda-forge
 dependencies:
